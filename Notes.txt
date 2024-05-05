@@ -1,0 +1,1 @@
+sql_ahchemy is a ORM can convert poython object to sql but can not talk to Db. Specific DB driver is required for that. eg psycpog 2 for Postgress
